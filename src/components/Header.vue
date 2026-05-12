@@ -1,5 +1,5 @@
 <template>
-  <header class="flex w-full items-center justify-between gap-4 bg-[#0E1B29] px-6 py-4 shadow-lg shadow-slate-950/20">
+  <header class="flex w-full items-center justify-between gap-4 bg-[#0E1B29] px-6 py-4">
     <div class="flex shrink-0 items-center">
       <div class="flex items-center">
         <img src="/Logo-Tekst.png" alt="Logo" class="h-20 w-auto" />
