@@ -21,7 +21,9 @@
 <script setup>
 import { ref } from 'vue'
 
+// comment here
 const searchQuery = ref('')
+
 
 const handleSearch = () => {
   console.log('Search query:', searchQuery.value)
