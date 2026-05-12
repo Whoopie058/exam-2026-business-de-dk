@@ -20,7 +20,6 @@
 
 <script setup>
 import { ref } from 'vue'
-hfer
 
 const searchQuery = ref('')
 
