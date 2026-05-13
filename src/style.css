@@ -7,3 +7,13 @@ body,
 	min-height: 100%;
 	width: 100%;
 }
+
+
+:root {
+    /*color swatches*/
+    --Blue-1: #1B263B;
+    --Blue-2: #415A77;
+    --Dark-BLue: #0D1B2A;
+    --Light-Blue: #778DA9;
+    --color-white: #E0E1DD;
+}
