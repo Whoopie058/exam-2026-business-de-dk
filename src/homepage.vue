@@ -18,7 +18,8 @@
           Synlighed – Formidling af viden og analyser via en mediekanal
           Erhvervsråd – Undersøgelse af potentialet for et cross-border business-råd
           Arbejdskraft og vækst – Tiltrækning og fastholdelse af talent i regionen
-          Business DE-DK skaber overblik, faciliterer samarbejde og styrker den grænseoverskridende erhvervsudvikling.</p>
+          Business DE-DK skaber overblik, faciliterer samarbejde og styrker den grænseoverskridende erhvervsudvikling.
+        gjgj</p>
       </section>
 
       <section class="image-section">
