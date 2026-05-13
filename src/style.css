@@ -17,3 +17,16 @@ body,
     --Light-Blue: #778DA9;
     --color-white: #E0E1DD;
 }
+.subtitle {
+text-transform: uppercase;
+  font-weight: 20px;
+  letter-spacing: 1px;
+  font-family: Raleway;
+}
+
+h1 {
+  font-size: 3.5rem;
+  margin: 10px 0;
+  line-height: 1.1;
+  font-family: Raleway;
+}

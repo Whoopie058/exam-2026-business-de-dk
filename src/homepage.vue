@@ -26,7 +26,62 @@
         <img src="/Meeting1.png" alt="Meeting" />
       </section>
     </div>
+
+  <footer class="w-full bg-white border-t border-gray-200 py-8 mt-auto">
+    <div class="max-w-7xl mx-auto px-4 flex flex-col items-center">
+      
+      <!-- Navigation Links -->
+      <ul class="flex flex-wrap justify-center gap-6 md:gap-8 mb-6">
+        <li>
+          <a href="#" class="text-sm font-medium text-gray-600 hover:text-green-600 transition-colors">
+            For virksomheder
+          </a>
+        </li>
+        <li>
+          <a href="#" class="text-sm font-medium text-gray-600 hover:text-green-600 transition-colors">
+            Medarbejdere
+          </a>
+        </li>
+        <li>
+          <a href="#" class="text-sm font-medium text-gray-600 hover:text-green-600 transition-colors">
+            Strategi
+          </a>
+        </li>
+        <li>
+          <a href="#" class="text-sm font-medium text-gray-600 hover:text-green-600 transition-colors">
+            B2B
+          </a>
+        </li>
+        <li>
+          <a href="#" class="text-sm font-medium text-gray-600 hover:text-green-600 transition-colors">
+            Privatlivspolitik
+          </a>
+        </li>
+        <li>
+          <a href="#" class="text-sm font-bold text-gray-800 hover:underline">
+            Gå til toppen ↑
+          </a>
+        </li>
+      </ul>
+
+      <!-- Logo -->
+      <div class="mb-4">
+        <img 
+          src="/Logo-Tekst.png" 
+          alt="Business Region Logo" 
+          class="h-12 w-auto object-contain"
+        />
+      </div>
+
+      <!-- Copyright -->
+      <p class="text-xs text-gray-400">
+        © 2026 Business Region. Alle rettigheder forbeholdes.
+      </p>
+      
+    </div>
+  </footer>
   </div>
+
 </template>
 
 <script setup>
